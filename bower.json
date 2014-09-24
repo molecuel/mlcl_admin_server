@@ -1,0 +1,7 @@
+{
+  "name": "mlcl_admin_server",
+  "version": "0.0.1",
+  "dependencies": {
+    "mlcl_admin": ">=0.0.1"
+  }
+}
