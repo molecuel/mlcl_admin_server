@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "grunt": ">=0.0.1",
+    "grunt": ">=1.0.4",
     "grunt-subgrunt": ">=0.0.1",
     "grunt-cli": ">=0.0.1",
     "express": ">=4.0.0"
